@@ -1,5 +1,5 @@
 /**
- * Complex test class
+ * Complex test class0
  */
 public class ComplexTest {
     private String[] names;
